@@ -16,8 +16,8 @@ Pemantauan pekerjaan outstanding secara manual menyulitkan Leader dan Pengawas d
 Google Apps Script, Google Sheets, HTML, CSS, JavaScript.
 
 ## Demo
-- 🔗 **[Live Demo](https://script.google.com/macros/s/AKfycbyPldgEyYNT-rqa2aMYVlXhJtKAV_izNA5DnsOK6dKAc_eVkV1to7SowhrBmF_98YujHg/exec)**
-- 🔗 https://docs.google.com/spreadsheets/d/1xwphuNvQZwn4PL6cEuivic1lgqoICmUn/copy
+- 🔗 **[Live Demo]** (https://script.google.com/macros/s/AKfycbyPldgEyYNT-rqa2aMYVlXhJtKAV_izNA5DnsOK6dKAc_eVkV1to7SowhrBmF_98YujHg/exec)
+- 🔗 **[Live Spreadsheets]** (https://docs.google.com/spreadsheets/d/1xwphuNvQZwn4PL6cEuivic1lgqoICmUn/copy)
 - Catatan: Data pada demo menggunakan data dummy untuk menjaga kerahasiaan informasi operasional perusahaan.
 
 ## Akun Demo
